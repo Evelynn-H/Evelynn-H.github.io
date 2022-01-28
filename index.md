@@ -5,7 +5,7 @@
 <font face=Times New Roman>Improve myself</font>
 
 ### Research Interests
-<font face=Times New Roman>Bioinfo, NLP, Drug Discovery,Comp.NeuroScience</font>
+<font face=Times New Roman>Bioinfo, NLP, Drug Discovery</font>
 
 ### Experience
 <font face=Times New Roman>2021.08-present Bioinfo Engineer in HectoBio</font>
