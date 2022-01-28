@@ -2,4 +2,4 @@ remote_theme: pages-themes/dinky@v0.2.0
 plugins:
 - jekyll-remote-theme 
 title: Ziting HE
-description: Welcome to Ziting He's Homepage
+# description: Welcome to Ziting He's Homepage
