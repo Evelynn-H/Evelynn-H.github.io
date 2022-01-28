@@ -1,14 +1,14 @@
 ## Welcome to Ziting HE's Homepage 
 ### Education
-2017-2021  B.S in Software Engineering, B.S in Life Science, SCU
+<font face=Times New Roman>2017-2021  B.S in Software Engineering, B.S in Life Science, SCU</font>
 ### State
-Improve myself
+<font face=Times New Roman>Improve myself</font>
 
 ### Research Interests
-Bioinfo, NLP, Drug Discovery,Comp.Neuroscience
+<font face=Times New Roman>Bioinfo, NLP, Drug Discovery,Comp.NeuroScience</font>
 
 ### Experience
-2021.08-present Bioinfo Engineer in HectoBio
+<font face=Times New Roman>2021.08-present Bioinfo Engineer in HectoBio</font>
 
 ### Contact Info
-Email:heziting233@gmail.com
+<font face=Times New Roman>Email:heziting233@gmail.com</font>
