@@ -6,7 +6,7 @@
 <font face=Times New Roman>Bioinfo, NLP, Long read sequencing, Neuroscience</font>
 
 ### Experience
-<font face=Times New Roman>2021.08-2022.08 Bioinfo Engineer Intern in HectoBio</font>
+<font face=Times New Roman>2021.08-2022.08 Bioinfo Engineer Intern in HectoBio</font> <br>
 <font face=Times New Roman>2023.06-present PhD student in CityuHK</font>
 
 ### Contact Info
